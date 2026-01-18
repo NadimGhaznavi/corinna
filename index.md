@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Corinna Ghaznavi
 
-Hello World. Hello Friend.
+Curator. Critic. Writer
 
