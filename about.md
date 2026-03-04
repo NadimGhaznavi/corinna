@@ -7,6 +7,8 @@ tags:
   - Professor
 ---
 
+![Desk](/assets/images/about/desk.jpg)
+
 ## Professional, Academic & Curatorial Practice
 
 Corinna Ghaznavi is an independent curator and freelance writer based in Canada. Since 1997, she has curated exhibitions across the country, working with artists, institutions, and public spaces.
