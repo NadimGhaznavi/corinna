@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Rogabam Deucalion numinis Thisbe sacra rector ales
-image: /assets/images/example1.jpg
+image: /assets/images/human_nature/human-nature-poster.png
 ---
+
 ## Human Nature
 
 ### Carleton University Art Gallery
