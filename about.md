@@ -1,6 +1,10 @@
 ---
 title: about
 layout: page
+tags:
+  - Curator
+  - Author
+  - Professor
 ---
 
 ## Professional, Academic & Curatorial Practice
