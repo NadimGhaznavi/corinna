@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rogabam Deucalion numinis Thisbe sacra rector ales
+title: 'Human Nature'
 image: /assets/images/human_nature/human-nature-poster.png
 ---
 
