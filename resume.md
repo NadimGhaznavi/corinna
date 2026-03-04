@@ -4,9 +4,9 @@ title: 'Curriculum Vitae.'
 image: /assets/images/resume/resume.png
 
 tags:
-  - Show
   - Curator
-  - ThroughHerEyes
+  - Author
+  - Professor
 ---
 
 ## Education
