@@ -26,12 +26,12 @@ tags:
 - Writing didactics, labels, catalogue texts, press releases
 - Conducting exhibition tours, giving curator’s talks
 
-**Arts Writer**
+### Arts Writer
 
 - Reviews, feature articles, and interviews published in national and international arts publications
 - Exhibition catalogue texts
 
-**Artistic Director, Fabulous Festival of Fringe Film (2012 - 2015)**
+### Artistic Director, Fabulous Festival of Fringe Film (2012 - 2015)
 
 - Conceptualizing and realizing five-day film festival
 - Grant writing and budgeting
@@ -40,7 +40,7 @@ tags:
 - Overseeing technicians, hospitality, accommodation, special events
 - Responsible for accompanying brochure, editing, and all media and PR
 
-**Public Art Coordinator, City of Markham (2012 - 2017)**
+### Public Art Coordinator, City of Markham (2012 - 2017)
 
 - Developing strategic vision 
 - Identifying sites for public art
@@ -50,7 +50,7 @@ tags:
 - Organizing open calls
 - Overseeing public art juries
 
-**Teaching and Related Experience**
+### Teaching and Related Experience
 
 - Sessional lecturer at college and university level
 - Developing course curricula
@@ -60,7 +60,7 @@ tags:
 - Public talks
 - Presentation at academic conferences
 
-**Grants and Awards**
+### Grants and Awards
 
 - Toronto Arts Council
 - Ontario Arts Council
@@ -68,7 +68,7 @@ tags:
 - Ontario Graduate Scholarship
 - MITACS Accelerate
 
-**Curated Exhibitions**
+### Curated Exhibitions
 
 - Look Again: Form and Void: Works from the Permanent Collection, Woodstock Art Gallery 
 - Through Her Eyes: Works from the Permanent Collection, Kelowna Art Gallery (catalogue) 
@@ -98,13 +98,13 @@ tags:
 - Illegitimate: David Acheson, Janet Bellotto, Lisa Klapstock, Jill Stock, Archive Inc
 - Bawdy: Michelle Gay, Vessna Perunovich, Jill Stock, Angela Gallery
 
-**Film and Video Programs**
+### Film and Video Programs
 
 - North, Fabulous Festival of Fringe Film
 - Disrupting Binaries, Cold Cuts Video Festival
 - Us Animals, Fabulous Festival of Fringe Film
 
-**Selected Publications**
+### Selected Publications
 
 - *“The Mediation of Trauma: The Problematics of Witnessing Tertiary Memory in the Work of Samina Mansuri.”* In Kim Huynh and Cecille DePass, Ed., Calgary: Art Bayeux
 - *“We Are Here Now: Vessna Perunovich
@@ -120,7 +120,7 @@ tags:
 - *“Gathering Shades: Catherine Heard and Ed Pien.”* Museum of Contemporary Canadian Art
 - *“Computer Voices: Speaking Machines.”* David Rokeby and Jocelyn Robert, The Walter Phillips Art Gallery 
 
-**Selected Public Art Commissions**
+### Selected Public Art Commissions
 
 - Jill Anhold, Living Light, Downtown Markham
 - Mary Anne Barkhouse, Locavore, Carleton University 
