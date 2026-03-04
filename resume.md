@@ -1,112 +1,131 @@
 ---
-title: sample
-layout: page
+layout: post
+title: 'Curriculum Vitae.'
+image: /assets/images/resume/resume.png
+
+tags:
+  - Show
+  - Curator
+  - ThroughHerEyes
 ---
 
-# Lorem ipsum dolor 
+## Education
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+- PhD Visual Culture, University of Western Ontario
+- MA Art History, Heinrich Heine University, Duesseldorf
+- BA Art History, Albert Ludwigs University, Freiburg-in-Bresigau
 
-## Some great heading (h2)
+---
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+## Professional Experience 
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+### Independent Curator
 
-## Another great heading (h2)
+- Researching, conceptualizing, realizing small and large-scale, solo and group exhibitions and film programs
+- Conducting studio visits, liaising with artists, ensuring professional and ethical practices
+- Writing didactics, labels, catalogue texts, press releases
+- Conducting exhibition tours, giving curator’s talks
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+**Arts Writer**
 
-### Some great subheading (h3)
+- Reviews, feature articles, and interviews published in national and international arts publications
+- Exhibition catalogue texts
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+**Artistic Director, Fabulous Festival of Fringe Film (2012 - 2015)**
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+- Conceptualizing and realizing five-day film festival
+- Grant writing and budgeting
+- Liaising with programmers and film makers
+- Producing all aspects of the film festival
+- Overseeing technicians, hospitality, accommodation, special events
+- Responsible for accompanying brochure, editing, and all media and PR
 
-### Some great subheading (h3)
+**Public Art Coordinator, City of Markham (2012 - 2017)**
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+- Developing strategic vision 
+- Identifying sites for public art
+- Implementing public art projects from concept/call to installation
+- Overseeing budgets ($150,000 - $500,000)
+- Public presentations
+- Organizing open calls
+- Overseeing public art juries
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
+**Teaching and Related Experience**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+- Sessional lecturer at college and university level
+- Developing course curricula
+- Classes in curatorial practices, Modernism, 20th Century Art and Advertising
+- Critiques at MfA level
+- External examiner MfA level
+- Public talks
+- Presentation at academic conferences
 
-### Some great subheading (h3)
+**Grants and Awards**
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+- Toronto Arts Council
+- Ontario Arts Council
+- Canada Council for the Arts
+- Ontario Graduate Scholarship
+- MITACS Accelerate
 
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+**Curated Exhibitions**
 
+- Look Again: Form and Void: Works from the Permanent Collection, Woodstock Art Gallery 
+- Through Her Eyes: Works from the Permanent Collection, Kelowna Art Gallery (catalogue) 
+- Stardust and Time: John McEwen and Veronica Verkley, Durham 
+- Human Nature (touring exhibition), Carleton University Art Gallery 
+- Traversive Territories: Sarindar Dhaliwal, Sheila Esfahani, Colette Urban, Varley Art Gallery
+- Writing Topography: Marion McCain Biennale of Contemporary Atlantic Canadian Art, The Beaverbrook Art Gallery (catalogue)
+- Animal (touring exhibition), Museum London (catalogue)
+- Douglas Walker: Other Worlds (touring exhibition) co-curated with Peter Dykhuis, Dalhousie Art Gallery (catalogue)
+- Sciencefiction Sciencefair: Denton Frederickson, Brian McKenna, Robyn Moody (touring exhibition), Robert McLaughlin Art Gallery (catalogue)
+- Pulp Fiction (touring exhibition), Museum London 
+- The Conative Object, York Quay Gallery
+- The Wonderland: Claudia Klucaric and Kate Wilson, The Tom Thomson Art Gallery
+- Neutrinos They Are Very Small: Rebecca Diederichs, Gordon Hicks, Sally McKay (touring exhibition), Sudbury Art Gallery (catalogue)
+- 18 Illuminations (touring exhibition) co-curated with Carla Garnet, Tom Thomson Art Gallery, (catalogue)
+- SuperNatural: Anna Maria Parolin and Natsuko Nakata, Open Studio
+- ReCollect: Mary Kavanaugh and Carol Sawyer, La Centrale (touring exhibition) 
+- InkLinations, York Quay Gallery
+- Happy Valley: David Acheson and Lorna Mills, The Walter Phillips Gallery
+- Tekeningen III, Quartair
+- Wish: Mona Kamal, Pamila Matharu, Tara Sabharwal, WARC in conjunction with SAVAC
+- Poesis: Marianne Lovink and Sheila Moss (touring exhibition), Mercer Union
+- Made In Banff: Selections from the Collection, co-curated with Melanie Townsend and Charlene McNichol, Walter Phillips Gallery 
+- Crawford Street: Carolyn White, Toronto Photographers Workshop
+- Feminist Practices: Lateral Moves: Jamelie Hassan and Leila Sujir, A Space in conjunction with SAVAC
+- LightWeights: Sandra Gregson and Sandra Rechico, Gallery 96
+- Illegitimate: David Acheson, Janet Bellotto, Lisa Klapstock, Jill Stock, Archive Inc
+- Bawdy: Michelle Gay, Vessna Perunovich, Jill Stock, Angela Gallery
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+**Film and Video Programs**
 
-#### You might want a sub-subheading (h4)
+- North, Fabulous Festival of Fringe Film
+- Disrupting Binaries, Cold Cuts Video Festival
+- Us Animals, Fabulous Festival of Fringe Film
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+**Selected Publications**
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+- *“The Mediation of Trauma: The Problematics of Witnessing Tertiary Memory in the Work of Samina Mansuri.”* In Kim Huynh and Cecille DePass, Ed., Calgary: Art Bayeux
+- *“We Are Here Now: Vessna Perunovich
+- *“Complex Intermingling and the Co-Evolution of Species.”* Mary Anne Barkhouse, MacLaren Arts Centre
+- *“The Proverbial Mole.”* Veronica Verkley: Second Nature: FERAL, Yukon Arts Centre
+- *“Deep in the Mud: Unthinking and Re-Thinking.”* Colette Urban: Incognito. Museum London
+- *“Material Becomings in the Work of Lyn Carter.”* Cambridge Galleries and Peel Gallery
+- *“Looking for Cohesion in a Broken World.”* Abject Nature: Duke and Battersby. Union Gallery 
+- *“Curious Lights in the Eye of the Storm.”* Kate Wilson: Curious Lights. Union Gallery
+- *“Persona Volare: Canadian Club.”* Canadian Cultural Centre, Paris.
+- *“Probing Into the Distance.”* Contemporary Art Forum, Kitchener
+- *“Lorna Mills: Reality Show.”* Tom Thomson Art Gallery
+- *“Gathering Shades: Catherine Heard and Ed Pien.”* Museum of Contemporary Canadian Art
+- *“Computer Voices: Speaking Machines.”* David Rokeby and Jocelyn Robert, The Walter Phillips Art Gallery 
 
-#### But it's probably overkill (h4)
+**Selected Public Art Commissions**
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+- Jill Anhold, Living Light, Downtown Markham
+- Mary Anne Barkhouse, Locavore, Carleton University 
+- Les Drysdale, Monument to Benjamin Thorne, Thornhill Community Centre
+- Marlene Hilton Moore, Monument to William Bercy, Berczy Square, Markham
+- Mary Anne Barkhouse, Quarry, Toogood Pond, Unionville
+- Kipjones, Gambrel Journey, Markham Museum
+- Douglas Walker, Cloudflower, Cornell Community Centre
